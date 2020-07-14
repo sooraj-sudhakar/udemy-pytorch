@@ -11,7 +11,7 @@ conda install pytorch torchvision cudatoolkit=10.2 -c pytorch
 
 ```
 ### Contents
-1. Basics
+1. [Basics](https://github.com/sooraj-sudhakar/udemy-pytorch/blob/master/Basics.py)
 2. Linear regression
 3. Logistic regression
 4. FNN
