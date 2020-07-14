@@ -5,7 +5,7 @@ This is the collecion of excercises and projects that I have done as part of the
 ### Dependancy
 * Install *Anaconda* package.
 * Configure the system for GPU computing [here](https://www.pugetsystems.com/labs/hpc/How-to-install-CUDA-9-2-on-Ubuntu-18-04-1184/).
-* Install pytorch with gpu enabled.
+* Install pytorch with gpu enabled(match the cuda version in your system).
 ```sh
 conda install pytorch torchvision cudatoolkit=10.2 -c pytorch
 
