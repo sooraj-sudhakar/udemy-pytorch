@@ -11,4 +11,10 @@ conda install pytorch torchvision cudatoolkit=10.2 -c pytorch
 
 ```
 ### Contents
-1. Introduction
+1. Basics
+2. Linear regression
+3. Logistic regression
+4. FNN
+5. CNN
+6. RNN
+7. LSTM
