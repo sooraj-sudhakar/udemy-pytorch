@@ -12,7 +12,7 @@ conda install pytorch torchvision cudatoolkit=10.2 -c pytorch
 ```
 ### Contents
 1. [Basics](https://github.com/sooraj-sudhakar/udemy-pytorch/blob/master/Basics.py)
-2. Linear regression
+2. [Linear regression](https://github.com/sooraj-sudhakar/udemy-pytorch/blob/master/Linear_regression.ipynb)
 3. Logistic regression
 4. FNN
 5. CNN
